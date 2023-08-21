@@ -4,3 +4,12 @@
 [submodule "02-bases"]
 	path = 02-bases
 	url = https://github.com/japillajo/git-02-bases.git
+[submodule "03-instalaciones"]
+	path = 03-instalaciones
+	url = https://github.com/japillajo/git-03-instalaciones.git
+[submodule "04-materia-heroes"]
+	path = 04-materia-heroes
+	url = https://github.com/japillajo/git-04-materia-heroes.git
+[submodule "05-tarea"]
+	path = 05-tarea
+	url = https://github.com/japillajo/git-05-tarea.git
