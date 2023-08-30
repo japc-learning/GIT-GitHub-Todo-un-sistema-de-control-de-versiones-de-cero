@@ -13,3 +13,6 @@
 [submodule "05-tarea"]
 	path = 05-tarea
 	url = https://github.com/japillajo/git-05-tarea.git
+[submodule "06-demo"]
+	path = 06-demo
+	url = https://github.com/japillajo/git-06-demo.git
