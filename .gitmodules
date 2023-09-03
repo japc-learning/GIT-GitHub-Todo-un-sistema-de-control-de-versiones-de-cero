@@ -16,3 +16,9 @@
 [submodule "06-demo"]
 	path = 06-demo
 	url = https://github.com/japillajo/git-06-demo.git
+[submodule "07-demo-stash"]
+	path = 07-demo-stash
+	url = https://github.com/japillajo/git-07-demo-stash.git
+[submodule "08-demo-rebase"]
+	path = 08-demo-rebase
+	url = https://github.com/japillajo/git-08-demo-rebase.git
