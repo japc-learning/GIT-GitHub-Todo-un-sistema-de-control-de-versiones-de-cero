@@ -25,3 +25,6 @@
 [submodule "09-liga-justicia"]
 	path = 09-liga-justicia
 	url = https://github.com/pandc19/git-09-heroes.git
+[submodule "10-legion-del-mal"]
+	path = 10-legion-del-mal
+	url = https://github.com/pandc19/legion-del-mal.git
