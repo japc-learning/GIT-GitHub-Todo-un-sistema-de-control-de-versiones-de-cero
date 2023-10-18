@@ -28,3 +28,6 @@
 [submodule "10-legion-del-mal"]
 	path = 10-legion-del-mal
 	url = https://github.com/pandc19/legion-del-mal.git
+[submodule "11-avengers-master"]
+	path = 11-avengers-master
+	url = https://github.com/pandc19/git-11-avengers-master.git
