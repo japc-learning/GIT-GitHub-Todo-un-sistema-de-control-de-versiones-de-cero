@@ -1,33 +1,33 @@
 [submodule "01-bases"]
 	path = 01-bases
-	url = https://github.com/pandc19/git-01-bases.git
+	url = https://github.com/japc-learning/git-01-bases.git
 [submodule "02-bases"]
 	path = 02-bases
-	url = https://github.com/pandc19/git-02-bases.git
+	url = https://github.com/japc-learning/git-02-bases.git
 [submodule "03-instalaciones"]
 	path = 03-instalaciones
-	url = https://github.com/pandc19/git-03-instalaciones.git
+	url = https://github.com/japc-learning/git-03-instalaciones.git
 [submodule "04-materia-heroes"]
 	path = 04-materia-heroes
-	url = https://github.com/pandc19/git-04-materia-heroes.git
+	url = https://github.com/japc-learning/git-04-materia-heroes.git
 [submodule "05-tarea"]
 	path = 05-tarea
-	url = https://github.com/pandc19/git-05-tarea.git
+	url = https://github.com/japc-learning/git-05-tarea.git
 [submodule "06-demo"]
 	path = 06-demo
-	url = https://github.com/pandc19/git-06-demo.git
+	url = https://github.com/japc-learning/git-06-demo.git
 [submodule "07-demo-stash"]
 	path = 07-demo-stash
-	url = https://github.com/pandc19/git-07-demo-stash.git
+	url = https://github.com/japc-learning/git-07-demo-stash.git
 [submodule "08-demo-rebase"]
 	path = 08-demo-rebase
-	url = https://github.com/pandc19/git-08-demo-rebase.git
+	url = https://github.com/japc-learning/git-08-demo-rebase.git
 [submodule "09-liga-justicia"]
 	path = 09-liga-justicia
-	url = https://github.com/pandc19/git-09-heroes.git
+	url = https://github.com/japc-learning/git-09-heroes.git
 [submodule "10-legion-del-mal"]
 	path = 10-legion-del-mal
-	url = https://github.com/pandc19/legion-del-mal.git
+	url = https://github.com/japc-learning/legion-del-mal.git
 [submodule "11-avengers-master"]
 	path = 11-avengers-master
-	url = https://github.com/Jonathan-s-Team/git-11-avengers-master.git
+	url = https://github.com/japc-learning/git-11-avengers-master.git
